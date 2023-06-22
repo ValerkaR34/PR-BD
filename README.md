@@ -2,7 +2,7 @@
 
 Концептуальная диаграмма:
 
-![Описание фотографии](C:\Users\Valera\Desktop)
+![Описание фотографии](C:\Users\Valera\Pictures\dd.png)
 
 
 
